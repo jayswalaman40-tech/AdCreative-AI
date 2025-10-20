@@ -1,0 +1,5 @@
+{
+  "name": "AdCreative AI",
+  "description": "A web application that allows users to generate high-quality, high-converting ad creatives (both text and images) using AI. Users provide basic inputs, and the AI generates the creative assets.",
+  "requestFramePermissions": []
+}
